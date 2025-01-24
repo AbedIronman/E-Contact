@@ -1,5 +1,5 @@
 # E-Contact
-This is a desktop C# CRUD app, that allows you to create, store, delete, edit and search for your contacts.
+This was my first-ever project—a desktop C# CRUD app, like a digital phonebook. It lets you create, edit, delete, store, and search for contacts. I still remember the pure joy I felt after wrangling with it for a few weeks and finally getting it to work. Felt like taming my first wild stallion.
 ![image](https://user-images.githubusercontent.com/57958425/224527356-fba7ac29-a856-4388-b2d5-2424311d1b5c.png)
 ![image](https://user-images.githubusercontent.com/57958425/224527403-7692ec9a-5ffa-44d8-accc-f2b93a3e4d67.png)
 ![image](https://user-images.githubusercontent.com/57958425/224527420-1955a82b-ae22-4c30-9165-8c4014479490.png)
